@@ -7,3 +7,4 @@ xhofe/alist:latest
 n8nio/n8n
 traefik:v2.4
 postgres
+rabbitmq
