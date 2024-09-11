@@ -1,4 +1,4 @@
-jenkinsci/blueocean
+rabbitmq:3.13-management
 jenkins/jenkins:lts
 nginx
 #支持私库
