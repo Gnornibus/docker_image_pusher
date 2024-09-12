@@ -1,4 +1,4 @@
-jenkinsci/blueocean
+jenkinsci/blueocean:latest
 rabbitmq:3.13-management
 jenkins/jenkins:lts
 nginx
